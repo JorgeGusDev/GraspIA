@@ -1,6 +1,4 @@
 # Proyecto-Grasp-Gustavo
-Resolución de problemas de optimización - Procedimiento de Búsqueda Adaptativo Voraz y Aleatorizado (GRASP)
+Optimization Problem Solving - Greedy Randomized Adaptive Search Procedure (GRASP)
 
-Este algoritmo encuentra soluciones aproximadas a un MaxMin Diversity Problem (MMDP), mediante la metodología metaeurística de Grasp 
-(Greedy Randomized Adaptative Search Procedure). Básicamente este problema (MMDP) consiste en seleccionar un numero de elementos de 
-un conjunto de elementos, de tal forma que la menor de las distancias entre los elementos seleccionados sea la máxima.
+This algorithm finds approximate solutions to a MaxMin Diversity Problem (MMDP) using the metaheuristic GRASP (Greedy Randomized Adaptive Search Procedure). Essentially, the MMDP problem involves selecting a number of elements from a set of elements such that the minimum distance between the selected elements is maximized.
